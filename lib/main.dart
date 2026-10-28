@@ -365,7 +365,7 @@ class _HomeScreenState extends State<HomeScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: const [
             Text('Selamat datang,', style: TextStyle(fontSize: 14, color: Colors.grey)),
-            Text('Jufe Lokollo', style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold, color: Color(0xFF1B5E20))),
+            Text('Jane', style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold, color: Color(0xFF1B5E20))),
             SizedBox(height: 4),
             Text('Semangat mengatur keuangan hari ini', style: TextStyle(fontSize: 13, color: Color(0xFF558B2F))),
           ],
